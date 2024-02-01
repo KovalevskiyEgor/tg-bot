@@ -1,0 +1,31 @@
+2023-12-06 18:36:55 DEBUG TelegramBot:36 - dfs
+2023-12-06 18:50:05 DEBUG TelegramBot:38 - в
+2023-12-06 18:54:33 DEBUG TelegramBot:40 - aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+2023-12-06 19:27:11 DEBUG TelegramBot:40 - л
+2023-12-06 19:38:22 DEBUG TelegramBot:40 - л
+2023-12-06 19:38:23 DEBUG TelegramBot:40 - д
+2023-12-06 19:40:10 DEBUG TelegramBot:40 - /start
+2023-12-06 19:40:22 DEBUG TelegramBot:40 - Hello
+2023-12-06 19:40:24 DEBUG TelegramBot:40 - R
+2023-12-06 19:40:27 DEBUG TelegramBot:40 - R
+2023-12-06 19:40:29 DEBUG TelegramBot:40 - J
+2023-12-06 19:40:39 DEBUG TelegramBot:40 - S
+2023-12-06 19:40:41 DEBUG TelegramBot:40 - Y
+2023-12-06 19:40:43 DEBUG TelegramBot:40 - T
+2023-12-06 23:40:17 DEBUG TelegramBot:40 - /start
+2023-12-06 23:40:17 DEBUG TelegramBot:40 - привет
+2023-12-06 23:40:33 DEBUG TelegramBot:40 - ..
+2023-12-06 23:40:35 DEBUG TelegramBot:40 - .
+2023-12-06 23:40:42 DEBUG TelegramBot:40 - как делаааа
+2023-12-06 23:40:53 DEBUG TelegramBot:40 - что делаешь
+2023-12-07 11:04:17 DEBUG TelegramBot:48 - 😉
+2023-12-07 11:04:17 DEBUG TelegramBot:48 - sasd
+2023-12-07 11:04:33 DEBUG TelegramBot:48 - 😱
+2023-12-08 12:21:42 DEBUG UpdateProducerImpl:18 - Щ
+2023-12-08 12:21:58 DEBUG UpdateProducerImpl:18 - 
+2023-12-08 12:23:30 DEBUG UpdateProducerImpl:18 - 
+2023-12-08 12:23:38 DEBUG UpdateProducerImpl:18 - 
+2023-12-08 12:25:07 DEBUG UpdateProducerImpl:18 - Ганаш
+2023-12-08 13:27:19 DEBUG UpdateProducerImpl:18 - Привет
+2023-12-08 13:28:22 DEBUG UpdateProducerImpl:18 - Пр
+2023-12-08 13:54:50 ERROR TelegramBot:55 - org.telegram.telegrambots.meta.exceptions.TelegramApiException: Unable to execute sendmessage method

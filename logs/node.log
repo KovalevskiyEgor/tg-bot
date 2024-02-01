@@ -1,0 +1,6 @@
+2023-12-08 13:25:11 DEBUG ConsumerServiceImpl:38 - NODE : doc message recieved
+2023-12-08 13:25:11 DEBUG ConsumerServiceImpl:24 - NODE : text message recieved
+2023-12-08 13:25:11 DEBUG ConsumerServiceImpl:44 - NODE : photo message recieved
+2023-12-08 13:25:11 DEBUG ConsumerServiceImpl:38 - NODE : doc message recieved
+2023-12-08 13:27:19 DEBUG ConsumerServiceImpl:24 - NODE : text message recieved
+2023-12-08 13:28:22 DEBUG ConsumerServiceImpl:24 - NODE : text message recieved

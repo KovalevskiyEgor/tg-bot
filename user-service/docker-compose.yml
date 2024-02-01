@@ -1,0 +1,30 @@
+version: '3'
+
+services:
+  postgres:
+    image: 'postgres:16.0'
+    container_name: my-tg-bot-db-user
+    environment:
+      - 'POSTGRES_USER=postgres'
+      - 'POSTGRES_PASSWORD=postgres'
+      - 'POSTGRES_DB=tg-bot'
+    ports:
+      - "5433:5433"
+    networks:
+      - mynetwork
+
+  app:
+    build: ./
+    container_name: user-service
+    ports:
+      - "8083:8083"
+    environment:
+      - SPRING_DATASOURCE_URL=jdbc:postgresql://my-tg-bot-db-user:5432/tg-bot?currentSchema=public
+      - SPRING_DATASOURCE_USERNAME=postgres
+      - SPRING_DATASOURCE_PASSWORD=postgres
+    networks:
+      - mynetwork
+
+networks:
+  mynetwork:
+    driver: bridge
